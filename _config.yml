@@ -25,7 +25,8 @@ github_username:  lanaperisa
 # Build settings
 markdown: kramdown
 #theme: jekyll-theme-cayman
-theme: minima
+#theme: minima
+theme: samd2018
 plugins:
   - jekyll-feed
 
