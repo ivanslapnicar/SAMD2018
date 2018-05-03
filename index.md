@@ -1,9 +1,10 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: default
-title: Split Applied Mathematics Day 2018
+title: Split Applied Mathematics Day 2018 
 ---
 
+# Split Applied Mathematics Day 2018                   
 
+#### Join us on July 15<sup>th</sup> 2018 at University of Split!    
+
+                                                 
