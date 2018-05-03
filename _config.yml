@@ -26,11 +26,11 @@ github_username:  lanaperisa
 # Build settings
 markdown: kramdown
 #theme: minima
-theme: samd2018
-#remote_theme: lanaperisa/samd2018
+#theme: samd2018
+remote_theme: lanaperisa/samd2018
 plugins:
   - jekyll-feed
-  #- jekyll-remote-theme
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
