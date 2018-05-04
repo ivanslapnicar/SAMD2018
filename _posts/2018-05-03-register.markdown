@@ -6,4 +6,4 @@ date:   2018-05-03 09:00:00 +0200
 
 ## Register
 
-SAMD2018 is free and open to everybody with registration! Please register [here](https://doodle.com/poll/ethdxrme3fc7hnaz#table)!  
+SAMD2018 is free and open to everybody with registration! Please register [here](https://doodle.com/poll/ethdxrme3fc7hnaz#table){:target="_blank"}!  

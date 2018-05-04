@@ -1,9 +1,3 @@
-PATH
-  remote: /home/lana/Documents/Projekti/SplitAppliedMathematicsDay2018/samd2018
-  specs:
-    samd2018 (0.1.0)
-      jekyll (~> 3.7)
-
 GEM
   remote: https://rubygems.org/
   specs:
@@ -272,7 +266,6 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll-feed (~> 0.6)
-  samd2018!
   tzinfo-data
 
 BUNDLED WITH
