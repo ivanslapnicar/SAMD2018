@@ -7,4 +7,4 @@ title: Split Applied Mathematics Day 2018
 
 #### Join us on July 15<sup>th</sup> 2018 at University of Split!    
 
-                                                 
+                                                  
