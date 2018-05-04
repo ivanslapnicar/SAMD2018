@@ -1,0 +1,58 @@
+body{
+	/*padding-top: 60px;*/
+	font-family: 'Roboto', sans-serif;
+}
+a {text-decoration: none; }
+h2{
+	font-family: 'Roboto Slab', serif;
+	text-align:center;
+	margin-bottom:10px;
+}
+#logo{
+	text-align:center;
+}
+#logo img{
+	margin:10px;
+}
+#title{
+	background-image: url("../images/RadovaniPhotography_SplitWaterfrontSeascape.jpg");
+	background-repeat: no-repeat;
+    /*background-size: 100%;*/
+    background-position: center; 
+    height:503px;
+    color:#EBE3E1;
+    font-family: 'Roboto Slab', serif;
+    background-color:white;
+    padding-top:110px;
+    position:relative;
+}
+#title h6{
+	/*padding-top:260px;*/
+	position:absolute;
+	bottom:50px;
+	left:0;right:0;
+	text-transform: uppercase;
+	letter-spacing:.6px;
+	/*color:#F0704D;*/
+}
+.jumbotron {
+    padding: 2rem;
+    background-color:#E5F0F4;
+}
+#k-speakers h2{
+	padding-bottom:20px;
+}
+#k-speakers hr{
+	margin: 50px 0;
+}
+#k-speakers img{
+	float:left;
+	max-width:140px;
+	padding:15px;
+}
+#map{
+	height: 300px;
+}
+.footer-copyright{
+	font-size:14px;
+}

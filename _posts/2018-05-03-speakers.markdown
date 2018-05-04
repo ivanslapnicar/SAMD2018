@@ -1,14 +1,11 @@
 ---
 layout: post
 title:  "Confirmed speakers"
-date:   2018-05-03 05:00:00 +0200
+date:   2018-05-03 08:00:00 +0200
 categories: details
 ---
 
 ## Confirmed speakers
 
-- Ivan Slapničar, University of Split
 - Lana Periša, University of Split
 - Anita Carević, University of Split
-- Ivo Ugrina, University of Split
-- Vesna Gotovac, University of Split
