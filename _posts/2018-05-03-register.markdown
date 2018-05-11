@@ -4,6 +4,7 @@ title:  "Register"
 date:   2018-05-03 09:00:00 +0200
 ---
 
-## Register
+## Registration
 
-SAMD2018 is free and open to everybody with registration! Please register [here](https://doodle.com/poll/ethdxrme3fc7hnaz#table){:target="_blank"}!  
+While SAMD2018 is a free and open event,  registration is required. Please register [here](https://doodle.com/poll/ethdxrme3fc7hnaz#table){:target="_blank"}.
+Last day to register is Monday, June 4, 2018.
