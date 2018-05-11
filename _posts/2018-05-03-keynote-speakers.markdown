@@ -27,12 +27,11 @@ ___
 
 Eric Goles Chacc completed his Ph.D. in Engineering at the University of Grenoble, France (1980) and graduated with a Ph.D. in Mathematics from the same institution (1985). He was an academic at the Faculty of Physical and Mathematical Sciences of the University of Chile and is a member of the Academy of Sciences, Institute of Chile since 1990. 
 
-In 1991 he received the Manuel Montt Prize for his work "Neural and Automómata Naturales". In 2000 he assumed the presidency of the National Commission of Scientific and Technological Research (Conicyt). He was a founding partner of the Institute of Complex Systems of Valparaíso and president of the Board of Directors between 2007 and 2009. In 2012 he was named Doctor Honoris Causa of the University of Orleans, France. He worked as an associate researcher at the Mathematical Modeling Center of the University of Chile. 
+In 2000 he assumed the presidency of the National Commission of Scientific and Technological Research (Conicyt) and was a founding partner of the Institute of Complex Systems of Valparaíso and president of the Board of Directors between 2007 and 2009. In 2012 he was named Doctor Honoris Causa of the University of Orleans, France. He worked as an associate researcher at the Mathematical Modeling Center of the University of Chile. 
 
-Eric Goles received the National Exact Sciences Award 1993 in conjunction with Servet Martínez for his publication "Automaton Networks, Dynamical Systems and Statistical Physics", research on mathematical models of great complexity that are applied in biology and physics and also in industries and Business.
+Eric Goles Chacc received the Manuel Montt Prize in 1991 and in conjunction with Servet Martínez the National Exact Sciences Award 1993. 
 
 He is a correspondence member of the Croatian Academy of Sciences and Arts.
-
 
 <http://www.uchile.cl/portal/presentacion/historia/grandes-figuras/premios-nacionales/ciencias-/6584/eric-goles-chacc>{:target="_blank"}
 
