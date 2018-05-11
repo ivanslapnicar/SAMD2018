@@ -46,3 +46,14 @@ Krešimir Veselić is Professor emeritus of Mathematics University of Hagen. His
 Professor Veselić obtained his Ph.D. in Mathematics from University of Zagreb. He has been a correspondence member of the Croatian Academy of Sciences and Arts since 1997.
 
 <https://www.fernuni-hagen.de/MATHPHYS/veselic/>{:target="_blank"}
+
+<img src="images/Kressner.png" class="img-fluid rounded-circle" alt="Daniel Kressner">
+##### Daniel Kressner
+
+Daniel Kressner obtained his PhD in mathematics in 2004 at the TU Berlin Universiad. After enjoying doctoral positions post in Umea and Zagred he obtained a position as assistant professor at the ETH Zurich in 2007. In 2011, he moved to the EPF Lausanne, where he currently is Professor of Numerical Analysis and High Computing and Director Math Section. 
+
+His main area of research is the numerical linear algebra and includes a wide range of applications with recent interest in low-rank matrices and tensor approximation techniques. 
+
+He won, in 2011, the John Todd Oberwolfach Foundation Award and, in 2013, the award for best research article SIAM.
+
+<https://people.epfl.ch/daniel.kressner>{:target="_blank"}
