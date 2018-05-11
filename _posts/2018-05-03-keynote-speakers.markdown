@@ -47,6 +47,8 @@ Professor Veselić obtained his Ph.D. in Mathematics from University of Zagreb. 
 
 <https://www.fernuni-hagen.de/MATHPHYS/veselic/>{:target="_blank"}
 
+___
+
 <img src="images/Kressner.png" class="img-fluid rounded-circle" alt="Daniel Kressner">
 ##### Daniel Kressner
 
