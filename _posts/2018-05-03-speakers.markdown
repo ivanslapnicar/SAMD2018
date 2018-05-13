@@ -5,14 +5,14 @@ date:   2018-05-03 08:00:00 +0200
 categories: details
 ---
 
-## Confirmed speakers
+## Speakers
 
-- Lana Periša
 - Anita Carević
-- Nevena Jakovčević Stor
-- Ivan Slapničar
 - Andrijana Ćurković
-- Saša Krešić Jurić 
-- Damir Vukičević 
+- Vesna Gotovac
+- Nevena Jakovčević Stor
+- Saša Krešić Jurić
+- Lana Periša
+- Ivan Slapničar
 - Ivo Ugrina
-- Vesna Gotovac  
+- Damir Vukičević
