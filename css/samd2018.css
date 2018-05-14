@@ -42,6 +42,9 @@ h2{
 #k-speakers h2{
 	padding-bottom:20px;
 }
+#k-speakers p{
+	text-align:justify;
+}
 #k-speakers hr{
 	margin: 50px 0;
 }
@@ -56,3 +59,4 @@ h2{
 .footer-copyright{
 	font-size:14px;
 }
+
