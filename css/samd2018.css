@@ -14,8 +14,12 @@ h2{
 #logo img{
 	margin:20px;
 }
+.smaller{
+	width:45px;
+}
 #title{
 	background-image: url("../images/RadovaniPhotography_SplitWaterfrontSeascape.jpg");
+	/*background-image: url("../images/samd2018_cover.jpg");*/
 	background-repeat: no-repeat;
     /*background-size: 100%;*/
     background-position: center; 
