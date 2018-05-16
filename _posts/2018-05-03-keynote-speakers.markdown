@@ -22,13 +22,14 @@ ___
 <img src="images/Goles.png" class="img-fluid rounded-circle" alt="Eric Goles">  
 ##### Eric Goles Chacc
 
-Eric Goles Chacc is Professor at the Universidad Adolfo Ibáñez, Santiago Chile. He received Ph.D. in Engineering from the University of Grenoble, France, in 1980 and Ph.D. in Mathematics from the same university in 1985. He is known for his work in cellular automata.
-
-He was Professor at the Universidad de Chile and resercher at Centro de Modelamiento Matemático. He was President of Comisión Nacional de Investigación Científica y Tecnológica (CONICYT) from 2000 until 2006. He was President of the Board of Directors of Instituto de Sistemas Complejos de Valparaíso from 2007 until 2009.
-
-Eric Goles Chacc received the Manuel Montt Prize in 1991 and Premio Nacional de Ciencias Exactas in 1993. In 2012 he was named Doctor Honoris Causa of the University of Orleans, France.
-
-He is a member of the Chilean Academy of Sciences since 1990 and the corresponding member of the Croatian Academy of Sciences and Arts since 2006.
+Dr. Eric Goles is Professor at the Engineering Faculty of the Adolfo Ibanez University,
+Santiago, Chile. He was member of the French CNRS, first director of the Center for
+Mathematical Modeling (University of Chile), creator and director of the Institute for
+Complex System (Valparaiso-Chile), and creator and current scientific director of the PhD
+program in Complex System. He was also the head of the Chilean Agency for Science and
+Technology (2000-2006).
+Dr. Goles is interested in Theoretical Computer Science, Discrete Mathematics, Complex
+Systems and Automata Networks. He has about 200 publications and several books.
 
 <http://www.uchile.cl/portal/presentacion/historia/grandes-figuras/premios-nacionales/ciencias-/6584/eric-goles-chacc>{:target="_blank"}
 
@@ -50,7 +51,7 @@ ___
 <img src="images/Kressner.png" class="img-fluid rounded-circle" alt="Daniel Kressner">
 ##### Daniel Kressner
 
-Daniel Kressner is Professor of Numerical Analysis and High Performance Computing and Director of Math Section at the École polytechnique fédérale de Lausanne. He obtained Ph.D in Mathematics in 2004 at the TU Berlin. After postdoctoral positions in Umea and Zagreb, he was Assistant Professor at the ETH Zurich from 2007 until 2011.
+Daniel Kressner is Professor of Numerical Analysis and High Performance Computing at the École polytechnique fédérale de Lausanne. He obtained Ph.D in Mathematics in 2004 at the TU Berlin. After postdoctoral positions in Umea and Zagreb, he was Assistant Professor at the ETH Zurich from 2007 until 2011.
 
 His main area of research is the numerical linear algebra including wide range of applications, in particular  low-rank matrices and tensor approximation techniques.
 
