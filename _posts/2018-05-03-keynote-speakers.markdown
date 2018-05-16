@@ -28,6 +28,7 @@ Mathematical Modeling (University of Chile), creator and director of the Institu
 Complex System (Valparaiso-Chile), and creator and current scientific director of the PhD
 program in Complex System. He was also the head of the Chilean Agency for Science and
 Technology (2000-2006).
+
 Dr. Goles is interested in Theoretical Computer Science, Discrete Mathematics, Complex
 Systems and Automata Networks. He has about 200 publications and several books.
 
