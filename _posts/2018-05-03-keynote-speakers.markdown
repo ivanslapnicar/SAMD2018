@@ -32,6 +32,8 @@ Technology (2000-2006).
 Dr. Goles is interested in Theoretical Computer Science, Discrete Mathematics, Complex
 Systems and Automata Networks. He has about 200 publications and several books.
 
+Dr. Goles is a member of the Chilean Academy of Sciences since 1990 and the corresponding member of the Croatian Academy of Sciences and Arts since 2006.
+
 <http://www.uchile.cl/portal/presentacion/historia/grandes-figuras/premios-nacionales/ciencias-/6584/eric-goles-chacc>{:target="_blank"}
 
 ___
