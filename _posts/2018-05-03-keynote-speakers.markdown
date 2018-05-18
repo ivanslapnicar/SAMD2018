@@ -22,7 +22,7 @@ ___
 <img src="images/Goles.png" class="img-fluid rounded-circle" alt="Eric Goles">  
 ##### Eric Goles Chacc
 
-Eric Goles Chacc is Professor at the Universidad Adolfo Ibáñez, Santiago Chile. He received Ph.D. in Engineering from the University of Grenoble, France, in 1980 and Ph.D. in Mathematics from the same university in 1985. He is known for his work in cellular automata.
+Eric Goles Chacc is Professor at the Universidad Adolfo Ibáñez, Santiago, Chile. He received Ph.D. in Engineering from the University of Grenoble, France, in 1980 and Ph.D. in Mathematics from the same university in 1985. He is known for his work in cellular automata.
 
 He was Professor at the Universidad de Chile and resercher at Centro de Modelamiento Matemático. He was President of Comisión Nacional de Investigación Científica y Tecnológica (CONICYT) from 2000 until 2006. He was President of the Board of Directors of Instituto de Sistemas Complejos de Valparaíso from 2007 until 2009.
 
@@ -30,7 +30,7 @@ Eric Goles Chacc received the Manuel Montt Prize in 1991 and Premio Nacional de 
 
 He is a member of the Chilean Academy of Sciences since 1990 and the corresponding member of the Croatian Academy of Sciences and Arts since 2006.
 
-<http://www.uchile.cl/portal/presentacion/historia/grandes-figuras/premios-nacionales/ciencias-/6584/eric-goles-chacc>{:target="_blank"}
+<http://ingenieria.uai.cl/academicos/eric-antonio-goles/>{:target="_blank"}
 
 ___
 

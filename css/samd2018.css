@@ -21,7 +21,6 @@ h2{
 	background-image: url("../images/RadovaniPhotography_SplitWaterfrontSeascape.jpg");
 	/*background-image: url("../images/samd2018_cover.jpg");*/
 	background-repeat: no-repeat;
-    /*background-size: 100%;*/
     background-position: center; 
     height:503px;
     color:#EBE3E1;
@@ -43,7 +42,7 @@ h2{
     padding: 2rem;
     background-color:#E5F0F4;
 }
-#k-speakers h2{
+h2{
 	padding-bottom:20px;
 }
 #k-speakers p{
@@ -62,5 +61,13 @@ h2{
 }
 .footer-copyright{
 	font-size:14px;
+}
+.break{
+	margin:8px 0;
+	display:block;
+	color:#5EAED3;
+}
+.abstract{
+	cursor:pointer;
 }
 
