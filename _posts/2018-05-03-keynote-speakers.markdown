@@ -22,23 +22,19 @@ ___
 <img src="images/Goles.png" class="img-fluid rounded-circle" alt="Eric Goles">  
 ##### Eric Goles Chacc
 
-<<<<<<< HEAD
-Eric Goles Chacc is Professor at the Universidad Adolfo Ibáñez, Santiago, Chile. He received Ph.D. in Engineering from the University of Grenoble, France, in 1980 and Ph.D. in Mathematics from the same university in 1985. He is known for his work in cellular automata.
-=======
 Dr. Eric Goles is Professor at the Engineering Faculty of the Adolfo Ibanez University,
 Santiago, Chile. He was member of the French CNRS, first director of the Center for
 Mathematical Modeling (University of Chile), creator and director of the Institute for
 Complex System (Valparaiso-Chile), and creator and current scientific director of the PhD
 program in Complex System. He was also the head of the Chilean Agency for Science and
 Technology (2000-2006).
->>>>>>> a1bf67f7fdd2daacf763c50ccd4b362f72f511dc
 
 Dr. Goles is interested in Theoretical Computer Science, Discrete Mathematics, Complex
 Systems and Automata Networks. He has about 200 publications and several books.
 
 Dr. Goles is a member of the Chilean Academy of Sciences since 1990 and the corresponding member of the Croatian Academy of Sciences and Arts since 2006.
 
-<http://ingenieria.uai.cl/academicos/eric-antonio-goles/>{:target="_blank"}
+<http://ingenieria.uai.cl/academicos/eric-antonio-goles/>{:target="_blank"} 
 
 ___
 
