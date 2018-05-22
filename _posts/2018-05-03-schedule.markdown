@@ -6,7 +6,7 @@ date:   2018-05-03 07:00:00 +0200
 
 ## Schedule
 
-&ensp;9:00 - 9:45 Jesse Barlow, Penn State  
+&ensp;9:00 - 9:45 Jesse Barlow, Penn State <a class="abstract" onclick="document.getElementById('JesseBarlow').style.display='block'" >(abstract)</a>    
 &ensp;9:45 - 10:30 Eric Goles, UAI <a class="abstract" onclick="document.getElementById('EricGoles').style.display='block'" >(abstract)</a>   
 <span class="break">10:30 - 11:00 Coffee break, Room B3-35</span>
 11:00 - 11:45 Krešimir Veselić, FernUniversit&auml;t  
