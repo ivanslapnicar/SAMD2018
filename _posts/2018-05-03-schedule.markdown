@@ -14,7 +14,7 @@ date:   2018-05-03 07:00:00 +0200
 <span class="break">12:30 - 14:00 Lunch break</span>
 14:00 - 14:20 Anita Carević, FESB  
 14:20 - 14:40 Andrijana Ćurković, PMF  
-14:40 - 15:00 Vesna Gotovac, PMF  
+14:40 - 15:00 Vesna Gotovac, PMF <a class="abstract" onclick="document.getElementById('VesnaGotovac').style.display='block'" >(abstract)</a>  
 15:00 - 15:20 Nevena Jakovčević Stor, FESB  
 <span class="break">15:20 - 16:00 Coffee break, Room B3-35</span>
 16:00 - 16:20 Saša Krešić Jurić, PMF  
