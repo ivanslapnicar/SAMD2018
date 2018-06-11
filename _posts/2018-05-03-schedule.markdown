@@ -17,10 +17,8 @@ date:   2018-05-03 07:00:00 +0200
 14:40 - 15:00 Vesna Gotovac, PMF <a class="abstract" onclick="document.getElementById('VesnaGotovac').style.display='block'" >(abstract)</a>  
 15:00 - 15:20 Nevena Jakovčević Stor, FESB  
 <span class="break">15:20 - 16:00 Coffee break, Room B3-35</span>
-16:00 - 16:20 Saša Krešić Jurić, PMF  
+16:00 - 16:20 Saša Krešić Jurić, PMF <a class="abstract" onclick="document.getElementById('SasaKresicJuric').style.display='block'" >(abstract)</a>  
 16:20 - 16:40 Lana Periša, FESB  <a class="abstract" onclick="document.getElementById('LanaPerisa').style.display='block'" >(abstract)</a>  
-16:40 - 17:00 Ivan Slapničar, FESB  
-17:00 - 17:20 Damir Vukičević, PMF  
-
-
+16:40 - 17:00 Ivan Slapničar, FESB  <a class="abstract" onclick="document.getElementById('IvanSlapnicar').style.display='block'" >(abstract)</a>  
+17:00 - 17:20 Damir Vukičević, PMF 
 
