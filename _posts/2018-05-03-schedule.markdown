@@ -13,7 +13,7 @@ date:   2018-05-03 07:00:00 +0200
 11:45 - 12:30 Daniel Kressner, EPFL <a class="abstract" onclick="document.getElementById('DanielKressner').style.display='block'" >(abstract)</a>         
 <span class="break">12:30 - 14:00 Lunch break</span>
 14:00 - 14:20 Anita Carević, FESB <a class="abstract" onclick="document.getElementById('AnitaCarevic').style.display='block'" >(abstract)</a>    
-14:20 - 14:40 Andrijana Ćurković, PMF  
+14:20 - 14:40 Andrijana Ćurković, PMF <a class="abstract" onclick="document.getElementById('AndrijanaCurkovic').style.display='block'" >(abstract)</a>    
 14:40 - 15:00 Vesna Gotovac, PMF <a class="abstract" onclick="document.getElementById('VesnaGotovac').style.display='block'" >(abstract)</a>  
 15:00 - 15:20 Nevena Jakovčević Stor, FESB  <a class="abstract" onclick="document.getElementById('NevenaJakovcevicStor').style.display='block'" >(abstract)</a>  
 <span class="break">15:20 - 16:00 Coffee break, Room B3-35</span>
