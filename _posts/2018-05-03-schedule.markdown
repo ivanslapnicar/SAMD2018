@@ -20,5 +20,5 @@ date:   2018-05-03 07:00:00 +0200
 16:00 - 16:20 Saša Krešić Jurić, PMF <a class="abstract" onclick="document.getElementById('SasaKresicJuric').style.display='block'" >(abstract)</a>  
 16:20 - 16:40 Lana Periša, FESB  <a class="abstract" onclick="document.getElementById('LanaPerisa').style.display='block'" >(abstract)</a>  
 16:40 - 17:00 Ivan Slapničar, FESB  <a class="abstract" onclick="document.getElementById('IvanSlapnicar').style.display='block'" >(abstract)</a>  
-17:00 - 17:20 Damir Vukičević, PMF 
+17:00 - 17:20 Damir Vukičević, PMF <a class="abstract" onclick="document.getElementById('DamirVukicevic').style.display='block'" >(abstract)</a>  
 
