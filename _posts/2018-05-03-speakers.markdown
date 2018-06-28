@@ -14,5 +14,4 @@ categories: details
 - Saša Krešić Jurić
 - Lana Periša
 - Ivan Slapničar
-- Ivo Ugrina
 - Damir Vukičević

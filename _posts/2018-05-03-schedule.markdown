@@ -6,4 +6,19 @@ date:   2018-05-03 07:00:00 +0200
 
 ## Schedule
 
-Soon!
+&ensp;9:00 - 9:45 Jesse Barlow, Penn State <a class="abstract" onclick="document.getElementById('JesseBarlow').style.display='block'" >(abstract)</a>    
+&ensp;9:45 - 10:30 Eric Goles, UAI <a class="abstract" onclick="document.getElementById('EricGoles').style.display='block'" >(abstract)</a>   
+<span class="break">10:30 - 11:00 Coffee break, Room B3-35</span>
+11:00 - 11:45 Krešimir Veselić, FernUniversit&auml;t  
+11:45 - 12:30 Daniel Kressner, EPFL <a class="abstract" onclick="document.getElementById('DanielKressner').style.display='block'" >(abstract)</a>         
+<span class="break">12:30 - 14:00 Lunch break</span>
+14:00 - 14:20 Anita Carević, FESB <a class="abstract" onclick="document.getElementById('AnitaCarevic').style.display='block'" >(abstract)</a>    
+14:20 - 14:40 Andrijana Ćurković, PMF <a class="abstract" onclick="document.getElementById('AndrijanaCurkovic').style.display='block'" >(abstract)</a>    
+14:40 - 15:00 Vesna Gotovac, PMF <a class="abstract" onclick="document.getElementById('VesnaGotovac').style.display='block'" >(abstract)</a>  
+15:00 - 15:20 Nevena Jakovčević Stor, FESB  <a class="abstract" onclick="document.getElementById('NevenaJakovcevicStor').style.display='block'" >(abstract)</a>  
+<span class="break">15:20 - 16:00 Coffee break, Room B3-35</span>
+16:00 - 16:20 Saša Krešić Jurić, PMF <a class="abstract" onclick="document.getElementById('SasaKresicJuric').style.display='block'" >(abstract)</a>  
+16:20 - 16:40 Lana Periša, FESB  <a class="abstract" onclick="document.getElementById('LanaPerisa').style.display='block'" >(abstract)</a>  
+16:40 - 17:00 Ivan Slapničar, FESB  <a class="abstract" onclick="document.getElementById('IvanSlapnicar').style.display='block'" >(abstract)</a>  
+17:00 - 17:20 Damir Vukičević, PMF <a class="abstract" onclick="document.getElementById('DamirVukicevic').style.display='block'" >(abstract)</a>  
+

@@ -1,0 +1,27 @@
+<div id="JesseBarlow" class="w3-modal">
+  <div class="w3-modal-content">
+    <div class="w3-container">
+      <span onclick="document.getElementById('JesseBarlow').style.display='none'" class="w3-button w3-display-topright">&times;</span>
+
+<!--\newcommand{\mat}[2]{\mathbf{R}^{#1 \times #2}}
+\title{A class of modified Gram-Schmidt algorithms and their analysis}
+\author{Jesse L. Barlow \\ Computer Science and Engineering \\ The Pennsylvania State University \\ University Park, PA 16802}
+\begin{document}
+\maketitle-->
+
+<h3>A class of modified Gram-Schmidt algorithms and their analysis</h3>
+
+<p><i>Jesse L. Barlow, Computer Science and Engineering, The Pennsylvania State University </i></p>
+
+<p>We develop a block modified  Gram-Schmidt (BMGS) algorithm to factor
+a full column rank matrix $X \in \mathbf{R}^{m\times n}$, $m \geq n$, into $Q \in \mathbf{R}^{m\times n}$  and upper triangular  $R \in \mathbf{R}^{m\times n}$
+such that
+\begin{equation}
+X = QR
+\label{eq:QRfact}
+\end{equation}
+and, in exact arithmetic, $Q$ is <i>left orthogonal</i>, i.e,  $Q^T Q=I_n$. The BLAS-3 algorithm builds upon block Householder representation of Schreiber and Van Loan [R. Schreiber and C.F. Van Loan, A storage-efficient WY representation for products of Householder transformations, SIAM J. Sci. Stat. Computing,10:53--57,1989]  and an observation by Charles Sheffield analyzed by Paige [C.C. Paige, A useful form of unitary matrix from any sequence of unit 2-norm $n$-vectors, SIAM J. Matrix Anal. Appl., 31(2):565--583, 2009] about the relationship between modified Gram-Schmidt and Householder QR factorization. Using the Sheffield framework, we show that the BMGS has a similar relationship to Householder QR factorization and thus has similar error analysis properties to modified Gram-Schmidt.</p>
+
+    </div>
+  </div>
+</div>
